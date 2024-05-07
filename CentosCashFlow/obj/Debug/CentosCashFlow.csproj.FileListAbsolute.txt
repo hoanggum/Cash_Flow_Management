@@ -1,0 +1,183 @@
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.AssemblyReference.cache
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.SuggestedBindingRedirects.cache
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Account.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.AccountEditingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Category.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryAddingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryEditForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ChangingPasswordForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ConfirmPasswordForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyAddingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyEditingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.DebtItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.FriendAccountAddingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Home.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageAddingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageEditingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LoanItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageAdminAccounts.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageCurrencies.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageLanguages.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageUserAccount.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.NewAdminAccountAddingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Overview.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Paybook.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Settings.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionAddingChildForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionEditingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionListView.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserAccountEditingForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserAccountItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Wide.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Login.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Menu.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Properties.Resources.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Register.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.GenerateResource.cache
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.CoreCompileInputs.cache
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\CentosCashFlow.exe.config
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\CentosCashFlow.exe
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\CentosCashFlow.pdb
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.exe
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.pdb
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.CopyComplete
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ForgotPassword.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\Newtonsoft.Json.dll
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.AccountMessageItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.InformItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.MessageItem.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Messages.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserMessagesForm.resources
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\bin\Debug\Newtonsoft.Json.xml
+C:\Học Kì 5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.NewLaguages.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\CentosCashFlow.exe.config
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\CentosCashFlow.exe
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\CentosCashFlow.pdb
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\Newtonsoft.Json.dll
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\bin\Debug\Newtonsoft.Json.xml
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.AssemblyReference.cache
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.SuggestedBindingRedirects.cache
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Account.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.AccountEditingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.AccountMessageItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Category.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryAddingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryEditForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ChangingPasswordForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ConfirmPasswordForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyAddingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyEditingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.DebtItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.FriendAccountAddingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Home.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.InformItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageAddingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageEditingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LoanItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageAdminAccounts.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageCurrencies.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageLanguages.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageUserAccount.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.MessageItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Messages.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.NewAdminAccountAddingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.NewLaguages.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Overview.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Paybook.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Settings.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionAddingChildForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionEditingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionListView.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserAccountEditingForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserAccountItem.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserMessagesForm.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Wide.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.ForgotPassword.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Login.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Menu.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Properties.Resources.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.Register.resources
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.GenerateResource.cache
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.CoreCompileInputs.cache
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.CopyComplete
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.exe
+C:\Hocki5\.Net\Nhom 7\CentosCashFlow\obj\Debug\CentosCashFlow.pdb
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\CentosCashFlow.exe.config
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\CentosCashFlow.exe
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\CentosCashFlow.pdb
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\Newtonsoft.Json.dll
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\bin\Debug\Newtonsoft.Json.xml
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.AssemblyReference.cache
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.SuggestedBindingRedirects.cache
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Account.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.AccountEditingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.AccountMessageItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Category.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryAddingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryEditForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CategoryItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ChangingPasswordForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ConfirmPasswordForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyAddingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyEditingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.CurrencyItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.DebtItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.FriendAccountAddingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Home.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.InformItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageAddingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageEditingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LanguageItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.LoanItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageAdminAccounts.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageCurrencies.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageLanguages.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.ManageUserAccount.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.MessageItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Messages.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.NewAdminAccountAddingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.NewLaguages.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Overview.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Paybook.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Settings.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionAddingChildForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionEditingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.TransactionListView.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserAccountEditingForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserAccountItem.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.UserMessagesForm.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ChildForms.Wide.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.ForgotPassword.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.Login.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.Menu.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.Properties.Resources.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.Register.resources
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.GenerateResource.cache
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.CoreCompileInputs.cache
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.csproj.CopyComplete
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.exe
+C:\Hocki5\.Net\Nhom7_QuanLiThuChiTienMat\CentosCashFlow\obj\Debug\CentosCashFlow.pdb
